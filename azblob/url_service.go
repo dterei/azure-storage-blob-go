@@ -5,7 +5,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/Azure/azure-pipeline-go/pipeline"
+	"github.com/dterei/azure-pipeline-go/pipeline"
 )
 
 const (

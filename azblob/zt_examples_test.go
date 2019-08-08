@@ -17,8 +17,8 @@ import (
 
 	"math/rand"
 
-	"github.com/Azure/azure-pipeline-go/pipeline"
-	"github.com/Azure/azure-storage-blob-go/azblob"
+	"github.com/dterei/azure-pipeline-go/pipeline"
+	"github.com/dterei/azure-storage-blob-go/azblob"
 )
 
 // https://godoc.org/github.com/fluhus/godoc-tricks

@@ -7,7 +7,7 @@ import (
 	"os"
 	"runtime"
 
-	"github.com/Azure/azure-pipeline-go/pipeline"
+	"github.com/dterei/azure-pipeline-go/pipeline"
 )
 
 // TelemetryOptions configures the telemetry policy's behavior.

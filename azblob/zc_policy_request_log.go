@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Azure/azure-pipeline-go/pipeline"
+	"github.com/dterei/azure-pipeline-go/pipeline"
 )
 
 // RequestLogOptions configures the retry policy's behavior.

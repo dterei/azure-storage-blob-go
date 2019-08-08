@@ -2,7 +2,7 @@ package azblob_test
 
 import (
 	"bytes"
-	"github.com/Azure/azure-storage-blob-go/azblob"
+	"github.com/dterei/azure-storage-blob-go/azblob"
 	chk "gopkg.in/check.v1"
 	"strings"
 	"time"

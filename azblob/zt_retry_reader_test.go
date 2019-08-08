@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/Azure/azure-storage-blob-go/azblob"
+	"github.com/dterei/azure-storage-blob-go/azblob"
 	chk "gopkg.in/check.v1"
 )
 
